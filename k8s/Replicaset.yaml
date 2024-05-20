@@ -1,0 +1,47 @@
+apiVersion: apps/v1
+kind: ReplicaSet
+metadata:
+  name: my-replicaset
+spec:
+  replicas: 5
+  selector:
+    matchLabels:
+      app: my-app
+  template:
+    metadata:
+      labels:
+        app: my-app
+    spec:
+      containers:
+      - name: redis-container
+        image: cache_image:latest
+        ports:
+        - containerPort: 6379
+        
+      - name: sql-server-container
+        image: db_image:latest
+        ports:
+        - containerPort: 1433
+
+        # Add other container specifications for db-pod
+      - name: dotnet-container
+        image: dotnet_image:latest
+        ports:
+        - containerPort: 70
+        env:
+        - name: ASPNETCORE_ENVIRONMENT
+          value: "Production"
+
+        # Add other container specifications for dotnet-pod
+      - name: nginx-lb-container
+        image: lb_image:latest
+        ports:
+        - containerPort: 65
+
+        # Add other container specifications for lb-pod
+      - name: rabbitmq-container
+        image: mq_image:latest
+        ports:
+        - containerPort: 5672
+        - containerPort: 15672
+        # Add other container specifications for mq-pod

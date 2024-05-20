@@ -1,0 +1,68 @@
+﻿@model Cinema
+
+@{
+    ViewData["Title"] = "Add a New Cinema";
+}
+
+<div class="row text">
+    <div class="col-md-8 offset-2">
+        <p>
+            <h1>Add a New Cinema</h1>
+        </p>
+        <div class="row">
+            <div class="col-md-8 offset-2">
+
+                <form asp-action="Create">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                    <div class="form-group text-center">
+                        <img id="LogoPreview" class="border-info rounded-circle" style="max-width: 150px" />
+                    </div>
+
+                    @*for the profile picture input*@
+                    <div class="form-group pb-3">
+                        <label asp-for="Logo" class="control-label"></label>
+                        <input asp-for="Logo" class="form-control" />
+                        <span asp-validation-for="Logo" class="text-danger"></span>
+                    </div>
+                    @*for the Name*@
+                    <div class="form-group pb-3">
+                        <label asp-for="Name" class="control-label"></label>
+                        <input asp-for="Name" class="form-control" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                    @*for the Bio*@
+                    <div class="form-group pb-3">
+                        <label asp-for="Description" class="control-label"></label>
+                        <input asp-for="Description" class="form-control" />
+                        <span asp-validation-for="Description" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <input type="submit" value="Create" class="btn btn-outline-success float-end" />
+                        <a class="btn btn-outline-secondary" asp-controller="Actors" asp-action="Index">Show All</a>
+                    </div>
+
+                </form>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts{
+    <script>
+
+        $(document).ready(function () {
+            var output = document.getElementById('LogoPreview');
+            output.src = $("#LogoPreview").val();
+        })
+
+        $("#LogoPreview").on("change", function () {
+            var output = document.getElementById('LogoPreview');
+            output.src = $(this).val();
+        })
+
+    </script>
+}

@@ -1,0 +1,80 @@
+﻿@page
+@model RegisterModel
+@{
+    ViewData["Title"] = "Register";
+}
+
+<head>
+    <link rel="stylesheet" type="text/css" href="~/css/RegisterStyle.css" />
+</head>
+
+<div class="center-div">
+    <form class="form" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+        <p class="title">Register</p>
+
+        <div class="flex">
+            @*<div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>*@
+            <label>
+                <input class="input" type="text" asp-for="Input.FirstName" maxlength="100" required="">
+                <span>First Name</span>
+                <span asp-validation-for="Input.FirstName" class="text-danger"></span>
+            </label>
+
+            <label>
+                <input class="input" type="text" asp-for="Input.LastName" maxlength="100" required="">
+                <span>Last Name</span>
+                <span asp-validation-for="Input.LastName" class="text-danger"></span>
+            </label>
+        </div>
+
+        <label>
+            <input class="input" type="email" asp-for="Input.Email" maxlength="100" required="">
+            <span>Email</span>
+            <span asp-validation-for="Input.Email" class="text-danger"></span>
+        </label>
+
+        <label>
+            <input class="input" asp-for="Input.phoneNumber" required="" />
+            <span>Phone Number</span>
+            <span asp-validation-for="Input.phoneNumber" class="text-danger"></span>
+        </label>
+
+        <label>
+            <input class="input" type="password" asp-for="Input.Password" maxlength="100" required="">
+            <span>Password</span>
+            <span asp-validation-for="Input.Password" class="text-danger"></span>
+        </label>
+
+        <label>
+            <input class="input" type="password" asp-for="Input.ConfirmPassword" maxlength="100" required="">
+            <span>Confirm Password</span>
+            <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+        </label>
+
+        <button id="registerSubmit" type="submit" class="submit">Register</button>
+        <p class="signin">Already have an acount ? <a asp-page="./Login">Log In</a> </p>
+
+    </form>
+
+    <form id="external-account" asp-page="./ExternalLogin" asp-route-returnUrl="@Model.ReturnUrl" method="post" class="form-horizontal">
+        <div>
+            <p>
+                @foreach (var provider in Model.ExternalLogins!)
+                {
+                    <button type="submit" class="w-100 btn btn-lg btn-primary" name="provider" value="@provider.Name" title="Log in using your @provider.DisplayName account">
+                        Log in with Gmail <i class="fa-brands fa-google"></i>
+                    </button>
+                }
+            </p>
+        </div>
+    </form>
+
+</div>
+
+
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+

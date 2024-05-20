@@ -1,0 +1,49 @@
+version: '3'
+
+services:
+
+# 1. .NET Core Application Image: Contains your .NET Core application.
+  dotnet-app:
+    build:
+      context: .
+      dockerfile: Dockerfiles/dotNet/Dockerfile
+    image: dotnet_image
+    ports:
+      - "80:80"
+    depends_on:
+      - database
+
+# 2. Database Image: Contains your database server.
+  database:
+    build:
+      context: .
+      dockerfile: Dockerfiles/DB/Dockerfile
+    image: db_image
+    ports:
+      - "1433:1433"
+
+
+# 3. Caching Image (Redis): Provides caching functionality.
+  cache:
+    build:
+      context: .
+      dockerfile: Dockerfiles/redis/Dockerfile
+    image: cache_image
+
+
+# 4. Message Queue Image (RabbitMQ): Facilitates message queuing for asynchronous tasks.
+  message-queue:
+    build:
+      context: .
+      dockerfile: Dockerfiles/rabbitmq/Dockerfile
+    image: mq_image
+
+
+# 5. Load Balancer Image (NGINX): Balances incoming traffic among multiple instances of your .NET Core application (if you plan to scale horizontally).
+  load-balancer:
+    build:
+      context: .
+      dockerfile: Dockerfiles/load balancer/Dockerfile
+    image: lb_image
+    ports:
+      - "8080:80"

@@ -1,0 +1,71 @@
+﻿@*Define model (the data wanted to displayed within this file)*@
+@model IEnumerable<Producer>
+
+
+@*Define ViewData (the data wanted to displayed within browser data or properties for this view)*@
+@{
+    ViewData["Title"] = "List of Producers";
+}
+
+
+@*Write code*@
+<div class="row">
+
+    <div class="col-md-8 offset-md-2">
+
+        <table class="table">
+
+            <thead>
+                <tr class="text-center">
+                    <th>@Html.DisplayNameFor(model=>model.ProfilePictureURL)</th>
+                    <th>@Html.DisplayNameFor(model=>model.FullName)</th>
+                    <th>@Html.DisplayNameFor(model=>model.Bio)</th>
+                    @if(User.IsInRole("Admin"))
+                     {
+                        <th>Actions</th>
+                     }
+                </tr>
+            </thead>
+
+            <tbody class="text-center">
+                @foreach (var producer in Model)
+                 {
+                    <tr>
+                        @*for image*@
+                        <td class="align-middle">
+                            <img src="@producer.ProfilePictureURL" class="rounded-circle" alt="@producer.FullName" style="max-width: 150px">
+                        </td>
+                        @*for name*@
+                        <td class="align-middle">
+                            @Html.DisplayFor(modelItem => producer.FullName)
+                        </td>
+                        @*for Bio*@
+                        <td class="align-middle">
+                            @producer.Bio
+                        </td>
+                        @*for action*@
+                        @if (User.IsInRole("Admin"))
+                         {
+                            <td class="align-middle">
+                                <a class="btn btn-outline-primary" asp-controller="Producers" asp-action="Edit" asp-route-id="@producer.Id"><i class="fa-regular fa-pen-to-square"></i> &nbsp; Edit</a> |
+                                <a class="btn btn-outline-info" asp-controller="Producers" asp-action="Details" asp-route-id="@producer.Id"><i class="fa-solid fa-circle-info"></i>&nbsp; Details</a> |
+                                <a class="btn btn-outline-danger" asp-controller="Producers" asp-action="Delete" asp-route-id="@producer.Id"><i class="fa-solid fa-trash-can"></i>&nbsp; Delete</a>
+                            </td>
+                         }
+                    </tr>
+                 }
+            </tbody>
+
+
+        </table>
+
+    </div>
+
+</div>
+
+@if (User.IsInRole("Admin"))
+{
+    <div style="position: fixed; right: 25px; bottom: 25px;" class="text-white">
+        <a asp-controller="Producers" asp-action="Create" class="btn btn-success"><i class="bi bi-plus-circle"></i> Add New</a>
+    </div>
+}

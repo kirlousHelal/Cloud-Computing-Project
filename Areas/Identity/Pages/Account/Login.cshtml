@@ -1,0 +1,64 @@
+﻿@page
+@model LoginModel
+
+@{
+    ViewData["Title"] = "Log in";
+}
+
+<head>
+    <link rel="stylesheet" type="text/css" href="~/css/LoginStyle.css" />
+</head>
+
+<div class="row center-div">
+    <div class="col-md-6 offset-4">
+        <h1>Log In</h1>
+
+        <form class="form" id="account" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+
+            @*For Email*@
+            <div class="form-group mb-3">
+                <label asp-for="Input.Email"></label>
+                <input type="text" class="form-control" asp-for="Input.Email" placeholder="Email or Username" />
+                <span asp-validation-for="Input.Email" class="text-danger"></span>
+            </div>
+
+            @*For password*@
+            <div class="form-group mb-3">
+                <label asp-for="Input.Password"></label>
+                <input type="password" asp-for="Input.Password" class="form-control" />
+                <span asp-validation-for="Input.Password" class="text-danger"></span>
+            </div>
+
+            @*For checkbox*@
+            <div class="checkbox mb-3">
+                <label asp-for="Input.RememberMe" class="form-label">
+                    <input class="form-check-input" asp-for="Input.RememberMe" />
+                    @Html.DisplayNameFor(m => m.Input.RememberMe)
+                </label>
+            </div>
+
+            <div>
+                <button id="login-submit" type="submit" class="w-100 btn btn-lg btn-primary">Log in</button>
+            </div>
+
+        </form>
+
+            <form id="external-account" asp-page="./ExternalLogin" asp-route-returnUrl="@Model.ReturnUrl" method="post" class="form-horizontal">
+                <div>
+                    <p>
+                        @foreach (var provider in Model.ExternalLogins!)
+                        {
+                            <button style="margin-top: 15px;" type="submit" class="w-100 btn btn-lg btn-primary" name="provider" value="@provider.Name" title="Log in using your @provider.DisplayName account">
+                            Log in with Gmail <i class="fa-brands fa-google"></i>
+                            </button>
+                        }
+                    </p>
+                </div>
+            </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

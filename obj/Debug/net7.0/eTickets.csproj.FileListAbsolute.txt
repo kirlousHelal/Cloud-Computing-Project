@@ -1,0 +1,1322 @@
+D:\eTickets\eTickets\bin\Debug\net7.0\appsettings.Development.json
+D:\eTickets\eTickets\bin\Debug\net7.0\appsettings.json
+D:\eTickets\eTickets\bin\Debug\net7.0\eTickets.staticwebassets.runtime.json
+D:\eTickets\eTickets\bin\Debug\net7.0\eTickets.exe
+D:\eTickets\eTickets\bin\Debug\net7.0\eTickets.deps.json
+D:\eTickets\eTickets\bin\Debug\net7.0\eTickets.runtimeconfig.json
+D:\eTickets\eTickets\bin\Debug\net7.0\eTickets.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\eTickets.pdb
+D:\eTickets\eTickets\bin\Debug\net7.0\Azure.Core.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Azure.Identity.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Humanizer.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Build.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\NuGet.Common.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\System.CodeDom.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\System.Memory.Data.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\af\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\ar\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\az\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\bg\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\cs\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\da\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\de\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\el\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\es\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\fa\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\fr\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\he\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\hr\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\hu\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\hy\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\id\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\is\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\it\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\ja\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\ku\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\lv\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\mt\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\nb\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\nl\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\pl\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\pt\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\ro\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\ru\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\sk\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\sl\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\sr\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\sv\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\tr\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\uk\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\vi\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\eTickets\eTickets\obj\Debug\net7.0\eTickets.csproj.AssemblyReference.cache
+D:\eTickets\eTickets\obj\Debug\net7.0\eTickets.GeneratedMSBuildEditorConfig.editorconfig
+D:\eTickets\eTickets\obj\Debug\net7.0\eTickets.AssemblyInfoInputs.cache
+D:\eTickets\eTickets\obj\Debug\net7.0\eTickets.AssemblyInfo.cs
+D:\eTickets\eTickets\obj\Debug\net7.0\eTickets.csproj.CoreCompileInputs.cache
+D:\eTickets\eTickets\obj\Debug\net7.0\eTickets.MvcApplicationPartsAssemblyInfo.cs
+D:\eTickets\eTickets\obj\Debug\net7.0\eTickets.MvcApplicationPartsAssemblyInfo.cache
+D:\eTickets\eTickets\obj\Debug\net7.0\eTickets.RazorAssemblyInfo.cache
+D:\eTickets\eTickets\obj\Debug\net7.0\eTickets.RazorAssemblyInfo.cs
+D:\eTickets\eTickets\obj\Debug\net7.0\staticwebassets\msbuild.eTickets.Microsoft.AspNetCore.StaticWebAssets.props
+D:\eTickets\eTickets\obj\Debug\net7.0\staticwebassets\msbuild.build.eTickets.props
+D:\eTickets\eTickets\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.eTickets.props
+D:\eTickets\eTickets\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.eTickets.props
+D:\eTickets\eTickets\obj\Debug\net7.0\staticwebassets.pack.json
+D:\eTickets\eTickets\obj\Debug\net7.0\staticwebassets.build.json
+D:\eTickets\eTickets\obj\Debug\net7.0\staticwebassets.development.json
+D:\eTickets\eTickets\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\eTickets\eTickets\obj\Debug\net7.0\scopedcss\bundle\eTickets.styles.css
+D:\eTickets\eTickets\obj\Debug\net7.0\scopedcss\projectbundle\eTickets.bundle.scp.css
+D:\eTickets\eTickets\obj\Debug\net7.0\eTickets.csproj.CopyComplete
+D:\eTickets\eTickets\obj\Debug\net7.0\eTickets.dll
+D:\eTickets\eTickets\obj\Debug\net7.0\refint\eTickets.dll
+D:\eTickets\eTickets\obj\Debug\net7.0\eTickets.pdb
+D:\eTickets\eTickets\obj\Debug\net7.0\eTickets.genruntimeconfig.cache
+D:\eTickets\eTickets\obj\Debug\net7.0\ref\eTickets.dll
+D:\eTickets\eTickets\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Google.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\appsettings.Development.json
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\appsettings.json
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\eTickets.staticwebassets.runtime.json
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\eTickets.exe
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\eTickets.deps.json
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\eTickets.runtimeconfig.json
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\eTickets.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\eTickets.pdb
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Azure.Core.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Azure.Identity.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Humanizer.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Google.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Build.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Newtonsoft.Json.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\NuGet.Common.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\NuGet.Configuration.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\NuGet.Frameworks.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\NuGet.LibraryModel.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\NuGet.Packaging.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\NuGet.ProjectModel.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\NuGet.Protocol.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\NuGet.Versioning.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.CodeDom.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.Composition.Convention.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.Composition.Hosting.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.Composition.Runtime.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.Composition.TypedParts.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.Memory.Data.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\af\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ar\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\az\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\bg\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\cs\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\da\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\de\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\el\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\es\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\fa\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\fr\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\he\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\hr\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\hu\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\hy\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\id\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\is\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\it\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ja\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ku\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\lv\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\mt\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\nb\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\nl\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pl\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pt\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ro\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ru\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\sk\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\sl\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\sr\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\sv\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\tr\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\uk\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\vi\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\eTickets.csproj.AssemblyReference.cache
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\eTickets.GeneratedMSBuildEditorConfig.editorconfig
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\eTickets.AssemblyInfoInputs.cache
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\eTickets.AssemblyInfo.cs
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\eTickets.csproj.CoreCompileInputs.cache
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\eTickets.MvcApplicationPartsAssemblyInfo.cs
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\eTickets.MvcApplicationPartsAssemblyInfo.cache
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\eTickets.RazorAssemblyInfo.cache
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\eTickets.RazorAssemblyInfo.cs
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\staticwebassets\msbuild.eTickets.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\staticwebassets\msbuild.build.eTickets.props
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.eTickets.props
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.eTickets.props
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\staticwebassets.pack.json
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\staticwebassets.build.json
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\staticwebassets.development.json
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\scopedcss\bundle\eTickets.styles.css
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\scopedcss\projectbundle\eTickets.bundle.scp.css
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\eTickets.csproj.CopyComplete
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\eTickets.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\refint\eTickets.dll
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\eTickets.pdb
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\eTickets.genruntimeconfig.cache
+F:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\ref\eTickets.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\appsettings.Development.json
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\appsettings.json
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\eTickets.staticwebassets.runtime.json
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\eTickets.exe
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\eTickets.deps.json
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\eTickets.runtimeconfig.json
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\eTickets.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\eTickets.pdb
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Azure.Core.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Azure.Identity.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Humanizer.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Google.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Build.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\NuGet.Common.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\NuGet.Configuration.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\NuGet.Frameworks.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\NuGet.LibraryModel.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\NuGet.Packaging.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\NuGet.ProjectModel.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\NuGet.Protocol.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\NuGet.Versioning.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.CodeDom.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.Composition.Convention.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.Composition.Hosting.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.Composition.Runtime.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.Composition.TypedParts.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\af\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ar\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\az\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\bg\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\cs\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\da\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\de\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\el\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\es\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\fa\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\fr\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\he\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\hr\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\hu\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\hy\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\id\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\is\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\it\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ja\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ku\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\lv\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\mt\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\nb\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\nl\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pl\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pt\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ro\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ru\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\sk\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\sl\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\sr\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\sv\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\tr\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\uk\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\vi\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\eTickets.csproj.AssemblyReference.cache
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\eTickets.GeneratedMSBuildEditorConfig.editorconfig
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\eTickets.AssemblyInfoInputs.cache
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\eTickets.AssemblyInfo.cs
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\eTickets.csproj.CoreCompileInputs.cache
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\eTickets.MvcApplicationPartsAssemblyInfo.cs
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\eTickets.MvcApplicationPartsAssemblyInfo.cache
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\eTickets.RazorAssemblyInfo.cache
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\eTickets.RazorAssemblyInfo.cs
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\staticwebassets.build.json
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\staticwebassets.development.json
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\staticwebassets\msbuild.eTickets.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\staticwebassets\msbuild.build.eTickets.props
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.eTickets.props
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.eTickets.props
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\scopedcss\bundle\eTickets.styles.css
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\scopedcss\projectbundle\eTickets.bundle.scp.css
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\eTickets.csproj.CopyComplete
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\eTickets.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\refint\eTickets.dll
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\eTickets.pdb
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\eTickets.genruntimeconfig.cache
+E:\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\ref\eTickets.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\appsettings.Development.json
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\appsettings.json
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\eTickets.staticwebassets.runtime.json
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\eTickets.exe
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\eTickets.deps.json
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\eTickets.runtimeconfig.json
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\eTickets.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\eTickets.pdb
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Azure.Core.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Azure.Identity.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Humanizer.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Google.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Build.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\NuGet.Common.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\NuGet.Configuration.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\NuGet.Frameworks.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\NuGet.LibraryModel.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\NuGet.Packaging.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\NuGet.ProjectModel.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\NuGet.Protocol.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\NuGet.Versioning.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.CodeDom.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.Composition.Convention.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.Composition.Hosting.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.Composition.Runtime.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.Composition.TypedParts.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\af\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ar\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\az\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\bg\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\cs\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\da\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\de\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\el\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\es\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\fa\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\fr\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\he\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\hr\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\hu\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\hy\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\id\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\is\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\it\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ja\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ku\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\lv\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\mt\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\nb\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\nl\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pl\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pt\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ro\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ru\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\sk\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\sl\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\sr\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\sv\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\tr\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\uk\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\vi\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\eTickets.csproj.AssemblyReference.cache
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\eTickets.GeneratedMSBuildEditorConfig.editorconfig
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\eTickets.AssemblyInfoInputs.cache
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\eTickets.AssemblyInfo.cs
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\eTickets.csproj.CoreCompileInputs.cache
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\eTickets.MvcApplicationPartsAssemblyInfo.cs
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\eTickets.MvcApplicationPartsAssemblyInfo.cache
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\eTickets.RazorAssemblyInfo.cache
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\eTickets.RazorAssemblyInfo.cs
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\staticwebassets.build.json
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\staticwebassets.development.json
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\staticwebassets\msbuild.eTickets.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\staticwebassets\msbuild.build.eTickets.props
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.eTickets.props
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.eTickets.props
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\scopedcss\bundle\eTickets.styles.css
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\scopedcss\projectbundle\eTickets.bundle.scp.css
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\eTickets.csproj.CopyComplete
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\eTickets.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\refint\eTickets.dll
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\eTickets.pdb
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\eTickets.genruntimeconfig.cache
+E:\Career\Development\Web Devolopment\.NET\Projects\eTickets\eTickets\obj\Debug\net7.0\ref\eTickets.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\appsettings.Development.json
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\appsettings.json
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\eTickets.staticwebassets.runtime.json
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\eTickets.exe
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\eTickets.deps.json
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\eTickets.runtimeconfig.json
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\eTickets.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\eTickets.pdb
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Azure.Core.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Azure.Identity.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Humanizer.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Build.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\NuGet.Common.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\System.CodeDom.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\System.Memory.Data.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\af\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\ar\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\az\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\bg\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\cs\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\da\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\de\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\el\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\es\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\fa\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\fr\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\he\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\hr\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\hu\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\hy\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\id\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\is\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\it\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\ja\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\ku\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\lv\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\mt\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\nb\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\nl\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\pl\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\pt\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\ro\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\ru\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\sk\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\sl\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\sr\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\sv\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\tr\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\uk\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\vi\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\obj\Debug\net7.0\eTickets.csproj.AssemblyReference.cache
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\obj\Debug\net7.0\eTickets.GeneratedMSBuildEditorConfig.editorconfig
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\obj\Debug\net7.0\eTickets.AssemblyInfoInputs.cache
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\obj\Debug\net7.0\eTickets.AssemblyInfo.cs
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\obj\Debug\net7.0\eTickets.csproj.CoreCompileInputs.cache
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\obj\Debug\net7.0\eTickets.MvcApplicationPartsAssemblyInfo.cs
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\obj\Debug\net7.0\eTickets.MvcApplicationPartsAssemblyInfo.cache
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\obj\Debug\net7.0\eTickets.RazorAssemblyInfo.cache
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\obj\Debug\net7.0\eTickets.RazorAssemblyInfo.cs
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\obj\Debug\net7.0\staticwebassets\msbuild.eTickets.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\obj\Debug\net7.0\staticwebassets\msbuild.build.eTickets.props
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.eTickets.props
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.eTickets.props
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\obj\Debug\net7.0\staticwebassets.pack.json
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\obj\Debug\net7.0\staticwebassets.build.json
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\obj\Debug\net7.0\staticwebassets.development.json
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\obj\Debug\net7.0\scopedcss\bundle\eTickets.styles.css
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\obj\Debug\net7.0\scopedcss\projectbundle\eTickets.bundle.scp.css
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\obj\Debug\net7.0\eTickets.csproj.CopyComplete
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\obj\Debug\net7.0\eTickets.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\obj\Debug\net7.0\refint\eTickets.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\obj\Debug\net7.0\eTickets.pdb
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\obj\Debug\net7.0\eTickets.genruntimeconfig.cache
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\obj\Debug\net7.0\ref\eTickets.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Docker.DotNet.dll
+D:\FCIS Seniros - SC\Second Term\Cloud\Project\eTickets_New\eTickets\eTickets\bin\Debug\net7.0\Docker.DotNet.X509.dll

@@ -33,13 +33,19 @@ builder.Services.AddIdentity<ApplicationUser, IdentityRole>()
     .AddDefaultTokenProviders();
 
 //External Authentication using Google (Gmail accounts)
-builder.Services.AddAuthentication().
-    AddGoogle(options =>
-     {
-         IConfigurationSection GoogleAuthSection = builder.Configuration.GetSection("Authentication:Google");
-         options.ClientId = GoogleAuthSection["ClientId"];
-         options.ClientSecret = GoogleAuthSection["ClientSec"];
-     });
+// builder.Services.AddAuthentication().
+//     AddGoogle(options =>
+//      {
+//          IConfigurationSection GoogleAuthSection = builder.Configuration.GetSection("Authentication:Google");
+//          options.ClientId = GoogleAuthSection["ClientId"];
+//          options.ClientSecret = GoogleAuthSection["ClientSec"];
+//      });
+//////////////Note/////////////////////////
+//    in appsettings.json: replace the next two lines...
+//   "ClientId": "819539612309-qsq8haelp45a581tq78cohsnttfscfch.apps.googleusercontent.com",
+//   "ClientSec": "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"
+
+
 
 
 
